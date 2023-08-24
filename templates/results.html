@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Results for "{{ search_term }}"</h1>
+    <ul>
+        {% for pdf_file in pdf_files %}
+            <li><a href="{{ url_for('download', filename=pdf_file) }}">{{ pdf_file }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+
+
+
+
+
+
