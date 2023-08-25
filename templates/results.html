@@ -3,10 +3,10 @@
     <title>Search Results</title>
 </head>
 <body>
-    <h1>Search Results for "{{ dept sem semester }}"</h1>
+    <h1>Search Results for "{{ dept }} {{ sem }} Semester"</h1>
     <ul>
         {% for pdf_file in pdf_files %}
-            <li><a href="{{ url_for('download', filename=pdf_file,dir=dir) }}">{{ pdf_file }}</a></li>
+            <li><a href="{{ url_for('download', filename=pdf_file, documents_dir=documents_dir) }}">{{ pdf_file }}</a></li>
         {% endfor %}
     </ul>
 </body>
