@@ -41,6 +41,9 @@
       color: white;
       font-weight: 500;
   }
+  .rightblock ul li a{
+    color: white;
+ }
   .rightblock ul li:hover{
       margin: 0 1rem;
       color: white;
@@ -101,10 +104,14 @@
       font-family: 'Rajdhani', sans-serif;
       font-size: 2rem;
   }
+  .start button a{
+   text-decoration: none;
+   color: white;
+}
   .start button:hover{
       color: rgb(0, 0, 0);
       font-weight: 700;
-      background: rgb(204, 203, 203);
+      background: rgb(128, 123, 123);
       border: solid 0.3rem rgb(17, 148, 255);
       cursor: pointer;
   }

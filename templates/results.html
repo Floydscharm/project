@@ -16,19 +16,22 @@
         </div>
         <div class="rightblock">
             <ul>
-                <li>HOME</li>
-                <li>SYLLABUS</li>
+                <li> <a href="/" class="one"> HOME </a></li>
+                <li><a href="/syllabus" class="one"> SYLLABUS </a></li>
                 <li>ABOUT US</li>
             </ul>
         </div>
     </nav>
-    <h1 class="searchresult">Search Results for "{{ dept }} {{ sem }} Semester"</h1>
-    <br>
+    <br><br><br>
+    <div class="holder">
+    <h1 class="searchresult"><b>Search Results for "{{ dept }} {{ sem }} Semester"</b></h1>
+    <br><br>
     <ul class="papers">
         {% for pdf_file in pdf_files %}
             <li><div><a href="{{ url_for('download', filename=pdf_file, documents_dir=documents_dir) }}">{{ pdf_file }}</a></div></li><br>
         {% endfor %}
     </ul>
+</div>
 </body>
 </html>
 
@@ -45,6 +48,7 @@
       cursor: default;
   }
   .navbar{
+    background-color: black;
       height: 5rem;
       display: flex;
       justify-content: space-around;
@@ -77,6 +81,10 @@
       font-weight: 500;
       cursor: pointer;
   }
+  .rightblock ul li a{
+    text-decoration: none;
+    color: white;
+  }
     body{
         background-image: url("/static/Image/bg1.jpg");
         background-repeat: no-repeat;
@@ -86,9 +94,8 @@
         margin-top: 3rem;
         text-align: center;
         font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-weight: 600;
+        font-weight:4600;
         color: rgb(255, 255, 255);
-        text-decoration: underline;
     }
     .papers li div a{
         text-decoration: none;
@@ -116,5 +123,15 @@
     .papers li div a:hover{
         color: rgb(80, 4, 201);
         text-decoration: underline;
+    }
+    .holder{
+        top: 2rem;
+        background-color: black;
+        opacity: 80%;
+        backdrop-filter: blur(6px);
+        border: 1px solid green;
+        border-radius: 25px;
+        max-width: 70%;
+        margin: auto;
     }
 </style>
