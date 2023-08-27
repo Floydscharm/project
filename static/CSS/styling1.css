@@ -111,6 +111,7 @@
         top: 20px;
         
     }
+    }
     .start{
         margin-top: 3rem;
         display: flex;
@@ -120,19 +121,19 @@
     .start button{
         width: 10rem;
         height: 4rem;
-        color: white;
+        color: green;
         font-weight: 500;
         background: transparent;
-        border: solid 3px rgb(17, 148, 255);
+        border: solid 3px rgb(57, 255, 20);
         border-radius: 4rem;
         font-family: 'Rajdhani', sans-serif;
         font-size: 2rem;
     }
     .start button:hover{
-        color: rgb(0, 0, 0);
+        color: rgb(0, 255, 0);
         font-weight: 700;
-        background: rgb(204, 203, 203);
-        border: solid 3px rgb(17, 148, 255);
+        background: rgb(57, 255, 20);
+        border: solid 3px rgb(17, 148, 255, 0);
         cursor: pointer;
     }
     .one{

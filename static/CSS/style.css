@@ -100,23 +100,19 @@
       color: white;
       font-weight: 500;
       background: transparent;
-      border: solid 0.5rem rgb(17, 148, 255);
+      border: solid 0.5rem rgb(57, 255, 20);
       border-radius: 4rem;
       font-family: 'Rajdhani', sans-serif;
       font-size: 2rem;
   }
-  .start button a{
-   text-decoration: none;
-   color: white;
-}
   .start button:hover{
       color: rgb(0, 0, 0);
       font-weight: 700;
-      background: rgb(128, 123, 123);
-      border: solid 0.3rem rgb(17, 148, 255);
+      background: rgb(57, 255, 20);
+      border: solid 0.3rem rgb(17, 148, 255, 0);
       cursor: pointer;
   }
   .one{
-    color: black;
+    color: white;
     text-decoration: none;
   }
