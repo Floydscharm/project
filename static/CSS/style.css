@@ -22,7 +22,7 @@
       justify-content: space-around;
       align-items: center;
       border-bottom: solid 0.1rem green;
-      color: white;
+      background-color: rgb(0, 0, 0);
   }
   .leftlogo{
       margin-right: 3rem;
@@ -104,6 +104,10 @@
       border-radius: 4rem;
       font-family: 'Rajdhani', sans-serif;
       font-size: 2rem;
+  }
+  .start button a{
+    text-decoration: none;
+    color: white;
   }
   .start button:hover{
       color: rgb(0, 0, 0);
