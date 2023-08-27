@@ -111,7 +111,6 @@
         top: 20px;
         
     }
-    }
     .start{
         margin-top: 3rem;
         display: flex;
@@ -121,7 +120,7 @@
     .start button{
         width: 10rem;
         height: 4rem;
-        color: green;
+        color: rgb(125, 233, 125);
         font-weight: 500;
         background: transparent;
         border: solid 3px rgb(57, 255, 20);
@@ -132,7 +131,7 @@
     .start button:hover{
         color: rgb(0, 255, 0);
         font-weight: 700;
-        background: rgb(57, 255, 20);
+        background: rgb(12, 71, 1);
         border: solid 3px rgb(17, 148, 255, 0);
         cursor: pointer;
     }
