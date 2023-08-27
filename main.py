@@ -1,6 +1,8 @@
 from flask import Flask, render_template, send_from_directory, request
 import os
 
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "D:\Downloads\neural-foundry-397208-848acb6822e5.json"
+
 app = Flask(__name__)
 
 @app.route('/')
