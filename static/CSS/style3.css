@@ -22,6 +22,7 @@
         justify-content: space-around;
         align-items: center;
         border-bottom: solid 0.1rem green;
+        background-color: black;
         color: white;
     }
     .leftlogo{
