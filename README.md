@@ -12,11 +12,16 @@
   <p align="center">
     <br />
     <a href="https://www.youtube.com/watch?v=aPPh9WWF8Os">View Demo video</a>
+    <br>
+    <br>
+    Use this readme for getting started with this project
+    </br>
+    </br>
   </p>
 </div>
 
 
-
+<br>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -25,8 +30,8 @@
     <li><a href="#Inspiration">Inspiration</a></li>
     <li><a href="#What problems does this project solve?">What problems does this project solve?</a></li>
     <li><a href="#Problem Solution">Problem Solution</a></li>
-    <li><a href="#Challenges we ran into">Challenges we ran into</a></li>
     <li><a href="#overview">Overview</a></li>
+    <li><a href="#Challenges we ran into">Challenges we ran into</a></li>
     <li><a href="#getting starrted">getting sttarted</a></li>
     <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -41,11 +46,11 @@
   </ol>
 </details>
 
-## About The Project
+## 🤩🤩About The Project🤩🤩
 
- <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/Screenshot%202023-08-28%20134213.png" alt="Logo" width="700" height="500"> </a>
+ <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/Screenshot%202023-08-28%20134213.png" alt="Logo" width="800" height="500"> </a>
 
-## Inspiration:
+## 💭Inspiration:
 
 * At MAKAUT Organizer, we are driven by the belief that access to quality education resources should be seamless and equitable for all.
 * Our platform is inspired by the passion for learning and the desire to empower students to achieve their academic goals.
@@ -54,7 +59,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## What problems does this project solve?
+## 😟What problems does this project solve?
 
 * Limited Availability of Recent Question Papers: The official MAKAUT website provides question papers only up to the year 2019, leaving students without access to more recent exam materials. This lack of up-to-date question papers hampers students' ability to become familiar with the evolving exam patterns and current question types.
 
@@ -65,7 +70,7 @@
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Problem Solution
+## 💡Problem Solution
 
 * Limited Availability of Recent Question Papers:
 ExamArchive offers a repository of recent question papers, filling the gap left by the official MAKAUT website. We diligently collect and curate question papers from post-2019 periods, allowing students to access up-to-date exam materials. This ensures that students are well-prepared for current exam patterns and question types, leading to improved exam performance.
@@ -78,7 +83,23 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Challenges we ran into
+## 🙌Overview
+* In The Landing Page, the user will be able to know about us, the new syllebus offered by MAKAUT and can get started with our website
+* after clicking the get started button, user can get easy navigation through streams and semesters for quick access to relevant materials.
+* Then they can access to an extensive collection of question papers and study notes from various streams.
+* To run this application in a localhost:-
+If GitBash is not installed in your local device:
+     1) Download the repository from GitHub
+     2)run the following syntax in the powershell terminal:-
+       pip install -r requirements.txt
+     3) run  main.py file
+     4) click on the https link generated in the terminal
+* WARNING:- We are currently  collecting the resources. We have not provided the entire pdf files ....Only the resources of department  of Electrical Engineering- 3th and 4th semester is available. 
+Sorry for the inconvenience
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
+## 💀Challenges we ran into
 
 * Data Collection: Curating and verifying a comprehensive collection of question papers and study notes from different streams and years.
 * User Experience: Designing an intuitive user interface that simplifies browsing and downloading of resources.
@@ -87,7 +108,7 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## What's next for our project
+## 🔮What's next for our project
 
 *Enhanced User Experience: We're dedicated to refining our platform's user interface and navigation, making it even more intuitive and user-friendly.
 
@@ -107,23 +128,6 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Overview
-* In The Landing Page, the user will be able to know about us, the new syllebus offered by MAKAUT and can get started with our website
-* after clicking the get started button, user can get easy navigation through streams and semesters for quick access to relevant materials.
-* Then they can access to an extensive collection of question papers and study notes from various streams.
-* To run this application in a localhost:-
-If GitBash is not installed in your local device:
-     1) Download the repository from GitHub
-     2)run the following syntax in the powershell terminal:-
-       pip install -r requirements.txt
-     3) run  main.py file
-     4) click on the https link generated in the terminal
-* WARNING:- We are currently  collecting the resources. We have not provided the entire pdf files ....Only the resources of department  of Electrical Engineering- 3th and 4th semester is available. 
-Sorry for the inconvenience
-
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
   
 ## Getting Started
 
@@ -136,7 +140,7 @@ Sorry for the inconvenience
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of how to list the things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -145,23 +149,22 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Roadmap
+## 📌Roadmap
 
 - [x] Landing page
 - [x] Add back to top links
