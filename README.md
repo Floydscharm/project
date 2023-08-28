@@ -113,6 +113,13 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 * In The Landing Page, the user will be able to know about us, the new syllebus offered by MAKAUT and can get started with our website
 * after clicking the get started button, user can get easy navigation through streams and semesters for quick access to relevant materials.
 * Then they can access to an extensive collection of question papers and study notes from various streams.
+* To run this application in a localhost:-
+If GitBash is not installed in your local device:
+     1) Download the repository from GitHub
+     2)run the following syntax in the powershell terminal:-
+       pip install -r requirements.txt
+     3) run  main.py file
+     4) click on the https link generated in the terminal
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
