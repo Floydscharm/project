@@ -28,12 +28,20 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#inspiration">Inspiration</a></li>
-    <li><a href="#overview">Built With</a></li>
-    <li><a href="#Project Statement">Getting Started</a></li>
-    <li><a href="#Project Solution">Prerequisites</a></li>
-    <li><a href="#Overview">Installation</a></li>
-    <li><a href="#Challenges">Usage</a></li>
+    <li><a href="#what problems does this project solve">/a> What problems does this project solve</li>
+    <li><a href="#problem solution">/a> Problem Solution</li>
+    <li><a href="#overview">overview</a></li>
+    <li><a href="#Challenges we ran into">Challenges we ran into</a></li>
+    <li><a href="#what's next for owr project">What is next for owr project</a></li>
+    <li><a href="#build with">Build With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+     <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -63,7 +71,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+### Inspiration
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
