@@ -6,6 +6,8 @@
   </a>
 
   <h3 align="center">MAKAUT Organizer</h3>
+  
+  MAKAUT Organizer is the ultimate online platform providing access to MAKAUT's previous year question papers and expertly crafted notes across diverse streams, catering to both exam-bound students and those seeking in-depth subject comprehension.
 
   <p align="center">
     
@@ -23,20 +25,16 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -45,19 +43,10 @@
   </ol>
 </details>
 
+## About Us 
 
-<li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#inspiration">Inspiration</a></li>
-    <li><a href="#what problems does this project solve?">/a> What problems does this project solve?</li>
-    <li><a href="#problem solution">/a> Problem Solution</li>
-    <li><a href="#overview">overview</a></li>
-    <li><a href="#Challenges we ran into">Challenges we ran into</a></li>
-    <li><a href="#build with">Build With</a></li>
-    <li><a href="#What's next for our project">What's next for our project</a></li>
-      <li><a href="#build with">Build With</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-     <li>
-      <a href="#getting-started">Getting Started</a>
+
+
 ## Inspiration:
 
 * At MAKAUT Organizer, we are driven by the belief that access to quality education resources should be seamless and equitable for all. But i
@@ -71,22 +60,11 @@
 
 ## What problems does this project solve?
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-* There is only question paper available up to 2019 on the internate. leaving students without access to more recent exam materials.
-* This lack of up-to-date question papers hampers students' ability to become familiar with the evolving exam patterns and current question types.
-* We diligently collect and curate question papers from post-2019 periods, allowing students to access up-to-date exam materials
-* Recognizing the limitations of university-provided study materials, MAKAUT Organizers offers comprehensive study notes that cover a wide range of subjects and topics across different streams.
-* ExamArchive addresses the scarcity of topic-wise content online by offering a diverse range of organized study materials.
-* Our platform categorizes study resources by subjects, streams, and topics, enabling students to easily locate and access content tailored to their learning needs.
+* Limited Availability of Recent Question Papers: The official MAKAUT website provides question papers only up to the year 2019, leaving students without access to more recent exam materials. This lack of up-to-date question papers hampers students' ability to become familiar with the evolving exam patterns and current question types.
 
-## Problem Solution
+* Insufficient Study Materials Provided by University: While the university occasionally offers study materials and notes, these resources are often limited in scope and may not comprehensively cover the various subjects and topics across different streams. As a result, students may struggle to find in-depth explanations and examples for a well-rounded understanding.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Scarcity of Topic-wise Content Online: Despite the vast expanse of the internet, finding organized and topic-specific study content tailored to the MAKAUT curriculum can be a daunting task. Students seeking to delve deeper into specific subjects often encounter a scarcity of reliable resources that cater to their exact learning needs.
 
 ### overview
 ## overview
