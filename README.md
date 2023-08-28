@@ -91,7 +91,21 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 * Then they can access to an extensive collection of question papers and study notes from various streams.
 ## What's next for our project
 
-*
+*Enhanced User Experience: We're dedicated to refining our platform's user interface and navigation, making it even more intuitive and user-friendly.
+
+* Advanced Search and Filters: Expect advanced search functionalities that will allow you to quickly find the exact study materials you need based on subjects, topics, and keywords.
+
+* Mobile App: Stay tuned for the launch of our mobile app, enabling you to access ExamArchive's resources conveniently on your mobile devices.
+
+* User Contributions: We're working on a feature that will allow you to contribute your study materials, helping us collectively build a richer and more diverse repository.
+
+* Interactive Quizzes: To bolster your understanding, we're planning to introduce interactive quizzes that test your knowledge and provide immediate feedback.
+
+* Expanded Stream Coverage: Our aim is to encompass an even broader range of streams, ensuring that students from various disciplines can benefit from ExamArchive.
+
+* Collaborative Learning Features: We're exploring ways to enhance community engagement, encouraging deeper discussions, peer collaborations, and knowledge sharing.
+
+* Feedback Integration: Your feedback is invaluable to us. We're implementing features that will allow you to provide suggestions and insights directly on the platform.
 
 <!-- ROADMAP -->
 ## Roadmap
