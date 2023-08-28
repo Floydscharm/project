@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    div{
+        cursor: default;
+    }
+    body{
+        background-image: url("book.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .navbar{
+        height: 5rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: black;
+        border-bottom: solid 0.1rem green;
+        color: white;
+    }
+    .leftlogo{
+        margin-right: 3rem;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-family: 'Handjet', cursive;
+        font-size: 1.8rem;
+    }
+    .rightblock ul{
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+    }
+    .rightblock ul li{
+        margin: 0 1rem;
+        color: white;
+        font-weight: 500;
+    }
+    .rightblock ul li:hover{
+        margin: 0 1rem;
+        color: white;
+        text-decoration: underline;
+        font-weight: 500;
+        cursor: pointer;
+    }
+    .head{
+        color: white;
+        justify-content: space-around;
+        align-items: center;
+        display:flex;
+        margin-top: 2.5rem;
+    }
+    .center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .dropdown {
+        padding: 15px;
+        font-size: 20px;
+        color: white;
+        border: 1px solid #ccc;
+        background-color: rgba(255, 255, 255, 0);
+        border-radius: 5px;
+        border-width: 5px;
+        margin: 5px;
+        width: 300px;
+        text-align: center;
+        font-size: 20px;
+    }
+    .dropdown::after {
+        content: "\25BE"; 
+        position: absolute;
+        top: calc(50% - 5px);
+        right: 10px;
+        font-size: 12px;
+    }
+    
+        .dropdown::-ms-expand {
+        display: none;
+    }
+    
+        .dropdown option {
+        background-color: rgba(255, 255, 255, 0.8);
+        color: #333;
+    }
+    .start{
+        margin-top: 3rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .start button{
+        width: 10rem;
+        height: 4rem;
+        color: white;
+        font-weight: 500;
+        background: transparent;
+        border: solid 3px rgb(17, 148, 255);
+        border-radius: 4rem;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 2rem;
+    }
+    .start button:hover{
+        color: rgb(0, 0, 0);
+        font-weight: 700;
+        background: rgb(204, 203, 203);
+        border: solid 3px rgb(17, 148, 255);
+        cursor: pointer;
+    }
+    .one{
+        color: white;
+        text-decoration: none;
+      }

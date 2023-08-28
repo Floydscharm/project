@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organizer</title>
+    <link rel="stylesheet" href="/static/CSS/styling1.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Handjet&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="leftlogo">
+            <img src="/static/Image/pencil.png">
+            <p>
+                Makaut<br>Organizer
+            </p>
+        </div>
+        <div class="rightblock">
+            <ul>
+                <li> <a href="/" class="one"> HOME </a></li>
+                <li><a href="/syllabus" class="one"> SYLLABUS </a></li>
+                <li>ABOUT US</li>
+            </ul>
+        </div>
+    </nav>
+    <div class="head">
+        <h1>ORGANIZER</h1>
+    </div>
+    <div class="para">
+        <h4>Select your stream.</h4>
+    </div>
+    <form action="/list" method="post">
+    <div class="center">
+        <select class="dropdown" id="dropdown1" name="dept">
+            <option value="option1">--Select your stream--</option>
+            <option value="CSE">Computer Science and Engineering</option>
+            <option value="ECE">Electronics and Communication Engineering</option>
+            <option value="EE">Electrical Engineering</option>
+            <option value="ME">Mechanical Engineering</option>
+        </select>
+    </div>
+    <div class="para">
+        <h4>Select your semester.</h4>
+    </div>
+    <div class="center">
+        <select class="dropdown" id="dropdown2" name="sem">
+            <option value="option1">--Select your semester</option>
+            <option value="1st">1st Semester</option>
+            <option value="2nd">2nd Semester</option>
+            <option value="3rd">3rd Semester</option>
+            <option value="4th">4th Semester</option>
+        </select>
+    </div>
+    <br>
+    <div class="start">
+        <button type="submit">
+             PROCEED
+        </button>
+    </div>
+</form>
+</body>
+</html>
