@@ -43,8 +43,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/Screenshot%202023-08-28%20134213.png)
-
+<a <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/pencil.png?token=GHSAT0AAAAAACGKXSHVXYKK7XRHJBX2FNNWZHMR7JA" alt="Logo" width="80" height="80"> </a>
 
 ## Inspiration:
 
@@ -120,6 +119,8 @@ If GitBash is not installed in your local device:
        pip install -r requirements.txt
      3) run  main.py file
      4) click on the https link generated in the terminal
+* WARNING:- We are currently  collecting the resources. We have not provided the entire pdf files ....Only the resources of department  of Electrical Engineering- 3th and 4th semester is available. 
+Sorry for the inconvenience
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
