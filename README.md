@@ -155,13 +155,14 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Roadmap
 
-- [x] Add Changelog
+- [x] Landing page
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
+- [x] Organizer page
+- [ ] student query page
+- [ ] faq page
+- [ ] deploy
+- [ ] add to cloud
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
