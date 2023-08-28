@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Templat">
-    <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/pencil.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/pencil.png?token=GHSAT0AAAAAACGKXSHVXYKK7XRHJBX2FNNWZHMR7JA" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MAKAUT Organizer</h3>
