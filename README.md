@@ -39,7 +39,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -78,6 +77,8 @@ Recognizing the limitations of university-provided study materials, ExamArchive 
 
 * Scarcity of Topic-wise Content Online:
 ExamArchive addresses the scarcity of topic-wise content online by offering a diverse range of organized study materials. Our platform categorizes study resources by subjects, streams, and topics, enabling students to easily locate and access content tailored to their learning needs. This empowers students to explore specific subjects in depth and gain a more holistic grasp of their coursework.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Challenges we ran into
 
@@ -176,7 +177,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Project Link: (https://github.com/Floydscharm/project.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Acknowledgments
 
 
