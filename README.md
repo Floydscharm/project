@@ -11,10 +11,12 @@
     MAKAUT Organizer is the ultimate online platform providing access to MAKAUT's previous year question papers and expertly crafted notes across diverse streams, catering to both exam-bound students and those seeking in-depth subject comprehension.
     <br />
     <br />
+     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <br />
+    <br />
+    Use this readme for getting started with this project
+     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
 </div>
 
@@ -24,20 +26,13 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#inspiration">Inspiration</a></li>
+    <li><a href="#overview">Built With</a></li>
+    <li><a href="#Project Statement">Getting Started</a></li>
+    <li><a href="#Project Solution">Prerequisites</a></li>
+    <li><a href="#Overview">Installation</a></li>
+    <li><a href="#Challenges">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
