@@ -10,7 +10,6 @@
   MAKAUT Organizer is the ultimate online platform providing access to MAKAUT's previous year question papers and expertly crafted notes across diverse streams, catering to both exam-bound students and those seeking in-depth subject comprehension.
 
   <p align="center">
-    
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
