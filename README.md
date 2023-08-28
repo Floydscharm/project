@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://www.youtube.com/watch?v=ERlDOslzSn8">View Demo video</a>
+    <a href="https://www.youtube.com/watch?v=aPPh9WWF8Os">View Demo video</a>
   </p>
 </div>
 
