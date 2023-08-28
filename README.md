@@ -43,7 +43,7 @@
 
 ## About The Project
 
-<a <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/pencil.png?token=GHSAT0AAAAAACGKXSHVXYKK7XRHJBX2FNNWZHMR7JA" alt="Logo" width="80" height="80"> </a>
+ <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/Screenshot%202023-08-28%20134213.png" alt="Logo" width="700" height="500"> </a>
 
 ## Inspiration:
 
