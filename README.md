@@ -85,10 +85,7 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Overview
-* In The Landing Page, the user will be able to know about us, the new syllebus offered by MAKAUT and can get started with our website
-* after clicking the get started button, user can get easy navigation through streams and semesters for quick access to relevant materials.
-* Then they can access to an extensive collection of question papers and study notes from various streams.
+
 ## What's next for our project
 
 *Enhanced User Experience: We're dedicated to refining our platform's user interface and navigation, making it even more intuitive and user-friendly.
@@ -107,27 +104,18 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 
 * Feedback Integration: Your feedback is invaluable to us. We're implementing features that will allow you to provide suggestions and insights directly on the platform.
 
-<!-- ROADMAP -->
-## Roadmap
-## Build With
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+## Overview
+* In The Landing Page, the user will be able to know about us, the new syllebus offered by MAKAUT and can get started with our website
+* after clicking the get started button, user can get easy navigation through streams and semesters for quick access to relevant materials.
+* Then they can access to an extensive collection of question papers and study notes from various streams.
+  
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* Registration: Create your personal account on ExamArchive to access our repository.
+* Browse Streams: Explore the available streams and choose the one you're interested in.
+* Select Subject and Semester: Narrow down your search by selecting the subject and semester.
+* Download Resources: Download previous year question papers and study notes to aid your preparation.
+* Engage with Community: Participate in discussions, ask questions, and share your insights with fellow learners.
 
 
 ### Prerequisites
