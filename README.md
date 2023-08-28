@@ -25,11 +25,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-      <ul>
+    <li><a href="#Inspiration">Inspiration</a></li>
+    <li><a href="#What problems does this project solve?">What problems does this project solve?</a></li>
+    <li><a href="#Problem Solution">Problem Solution</a></li>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#getting starrted">getting sttarted</a></li>
+    <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -42,16 +43,15 @@
   </ol>
 </details>
 
-## About Us 
+## About The Project
 
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/Screenshot%202023-08-28%20134213.png)
 
 
 ## Inspiration:
 
-* At MAKAUT Organizer, we are driven by the belief that access to quality education resources should be seamless and equitable for all. But i
-* 
-* Usercase: In recent year's previous year questions
-  Our platform is inspired by the passion for learning and the desire to empower students to achieve their academic goals.
+* At MAKAUT Organizer, we are driven by the belief that access to quality education resources should be seamless and equitable for all.
+* Our platform is inspired by the passion for learning and the desire to empower students to achieve their academic goals.
 * Our platform is inspired by the passion for learning and the desire to empower students to achieve their academic goals.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,7 +133,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-@@ -165,6 +138,19 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
