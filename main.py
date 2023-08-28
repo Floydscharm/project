@@ -27,7 +27,10 @@ def list():
     for filename in os.listdir(documents_dir):
             if filename.lower().endswith('.pdf'):
                 pdf_files.append(filename)
-    return render_template('results.html', pdf_files=pdf_files, dept=dept,sem=sem,documents_dir=documents_dir )
+    if pdf_files:
+        return render_template('results.html', pdf_files=pdf_files, dept=dept,sem=sem,documents_dir=documents_dir )
+    else:
+        return render_template('error.html')
 
 
 # def upload_pdf_to_gcs(pdf_file, bucket_name, destination_blob_name):
