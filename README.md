@@ -119,7 +119,7 @@ If GitBash is not installed in your local device:
        pip install -r requirements.txt
      3) run  main.py file
      4) click on the https link generated in the terminal
- WARNING:- We are currently  collecting the resources. We have not provided the entire pdf files ....Only the resources of department  of Electrical Engineering- 3th and 4th semester is available. 
+* WARNING:- We are currently  collecting the resources. We have not provided the entire pdf files ....Only the resources of department  of Electrical Engineering- 3th and 4th semester is available. 
 Sorry for the inconvenience
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
