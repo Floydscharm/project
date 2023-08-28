@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/pencil.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MAKAUT Or</h3>
+  <h3 align="center">MAKAUT Oranizer</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
