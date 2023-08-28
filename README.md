@@ -5,19 +5,15 @@
     <img src="https://raw.githubusercontent.com/Floydscharm/project/master/static/Image/pencil.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MAKAUT Oranizer</h3>
+  <h3 align="center">MAKAUT Organizer</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,7 +58,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
      <li>
       <a href="#getting-started">Getting Started</a>
-@@ -62,79 +62,52 @@ Welcome to ExamArchive, the comprehensive platform designed to provide easy acce
 ## Inspiration:
 
 * At MAKAUT Organizer, we are driven by the belief that access to quality education resources should be seamless and equitable for all. But i
