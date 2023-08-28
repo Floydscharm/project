@@ -37,7 +37,6 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -65,6 +64,9 @@
 * Insufficient Study Materials Provided by University: While the university occasionally offers study materials and notes, these resources are often limited in scope and may not comprehensively cover the various subjects and topics across different streams. As a result, students may struggle to find in-depth explanations and examples for a well-rounded understanding.
 
 * Scarcity of Topic-wise Content Online: Despite the vast expanse of the internet, finding organized and topic-specific study content tailored to the MAKAUT curriculum can be a daunting task. Students seeking to delve deeper into specific subjects often encounter a scarcity of reliable resources that cater to their exact learning needs.
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Problem Solution
 
@@ -104,10 +106,16 @@ ExamArchive addresses the scarcity of topic-wise content online by offering a di
 
 * Feedback Integration: Your feedback is invaluable to us. We're implementing features that will allow you to provide suggestions and insights directly on the platform.
 
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Overview
 * In The Landing Page, the user will be able to know about us, the new syllebus offered by MAKAUT and can get started with our website
 * after clicking the get started button, user can get easy navigation through streams and semesters for quick access to relevant materials.
 * Then they can access to an extensive collection of question papers and study notes from various streams.
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
   
 ## Getting Started
 
@@ -143,6 +151,8 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Roadmap
 
 - [x] Add Changelog
@@ -150,12 +160,22 @@ _Below is an example of how you can instruct your audience on installing and set
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact 
+Project Link: (https://github.com/Floydscharm/project.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+
